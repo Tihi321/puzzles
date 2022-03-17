@@ -1,0 +1,22 @@
+$light-color: rgba(255, 255, 255, 1);
+$dark-color: rgba(0, 0, 0, 1);
+$ebony-clay-color: rgba(35, 39, 57, 1);
+$ebony-clay-color-semi: rgba(35, 39, 57, 0.6);
+$ebony-clay-color-transparent: rgba(35, 39, 57, 0.1);
+
+$font-color: $ebony-clay-color;
+$bg-color: $light-color;
+$logo-color: $light-color;
+$logo-bg-color: $ebony-clay-color;
+$hamburger-color: $ebony-clay-color;
+
+$header-divider-color: $ebony-clay-color-semi;
+$header-border-color: $ebony-clay-color-transparent;
+
+$menu-item-hover-bg: $ebony-clay-color-transparent;
+
+$sidebar-backdrop-color: $ebony-clay-color-semi;
+
+$scrollbar-bg-color: $light-color;
+$scrollbar-thumb-color: $ebony-clay-color;
+$scrollbar-thumb-hover-color: $ebony-clay-color-semi;
